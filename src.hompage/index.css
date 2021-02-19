@@ -1,6 +1,6 @@
  @font-face {
       font-family: 'zt';
-      src: url('https://cnm666.oss-cn-hongkong.aliyuncs.com/ArimaMadurai-Thin.ttf');
+      src: url('./ArimaMadurai-Thin.ttf');
 	  font-weight: normal;
       font-style: normal;
       }
@@ -44,7 +44,7 @@
       height: calc(49px * 1.5);
       top: -115px;
       left: -4px;
-      background-image: url(https://cnm666.oss-cn-hongkong.aliyuncs.com/22.png);
+      background-image: url(./22.png);
       background-size: cover;
       }
       .logo:hover::after { 
