@@ -1,23 +1,23 @@
 # 🍄 mogu.gq
 
-- index.html 首页
-- src.hompage/ 首页要用的静态文件
-- Url.md 地址更新通知文件
+- index.html      homepage
+- src.hompage/    homepage Static file
+- Url.md          Url update
 
 #### open page
 
 http://mogu.gq
 
-#### 地址发布页
+#### url For Url.md
 
 https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
 
 https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
 
-#### 编辑
+#### edit Url.md
 https://github.com/kkdysite/www.mogu.gq/edit/main/Url.md
 
-#### jsdelivr的CDN刷新链接 purge jsdelivr
+####  purge jsdelivr
 
 https://purge.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/src.hompage/index.css
 
