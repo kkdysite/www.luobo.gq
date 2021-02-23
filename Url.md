@@ -9,13 +9,11 @@
 蘑菇使用gmail邮箱是很稳定的，但受限于复杂的大陆国际网络，如果您有一个outlook icloud yahoo等国际通用的邮箱的话，建议您优先使用它来给蘑菇发邮件，必定能收到蘑菇的自动回复。
 #### 您可以从下面的网址里面获取最新的地址
 
-http://mogu.gq
+> http://mogu.gq
 
 本页面地址是
-
-https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
-
-https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
+- https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
+- https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
 
 ##### 反馈说明
 因大陆和国际网络之间的链接异常复杂，所有的非大陆服务器在大陆访问都会遇到稳定性问题。所以 蘑菇 无法保证大陆用户可以7x24一直可正常使用app。但是在收到您的邮件后，蘑菇会努力在最短的时间里面处理您遇到的问题。在极端情况下，有可能app会失效无法自动更新，需要您按照上面红色字体的地址 重新安装最新版的app。
