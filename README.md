@@ -1,7 +1,8 @@
-# mogu.gq
+# 🍄 mogu.gq
 
-For homepage
-
+index.html 首页
+src.hompage/ 首页要用的静态文件
+Url.md 地址更新通知文件
 
 open page
 
@@ -15,7 +16,9 @@ https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
 
 
 src.hompage is homepage need files
-purge jsdelivr
+
+
+jsdelivr的CDN刷新链接 purge jsdelivr
 
 https://purge.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/src.hompage/index.css
 
