@@ -28,5 +28,5 @@
 
 
 本页面地址
-- https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
-- https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
+- CDN镜像 https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
+- GitHub地址 https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
