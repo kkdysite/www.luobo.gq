@@ -14,6 +14,8 @@ https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
 
 https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
 
+#### 编辑
+https://github.com/kkdysite/www.mogu.gq/edit/main/Url.md
 
 #### jsdelivr的CDN刷新链接 purge jsdelivr
 
