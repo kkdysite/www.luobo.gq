@@ -7,6 +7,6 @@ Url.md
 
 http://mogu.gq
 
-https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/index.txt
+https://cdn.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/Url.md
 
 https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
