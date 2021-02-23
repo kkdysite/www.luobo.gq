@@ -23,8 +23,7 @@
 
 最后希望您善待蘑菇，更期望您能推荐您的朋友使用蘑菇影视app。
 
-感恩，祝愿您 have a good day
-
+感恩， have a good day
 
 
 本页面地址
