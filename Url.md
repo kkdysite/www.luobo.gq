@@ -28,4 +28,4 @@ https://github.com/kkdysite/www.mogu.gq/blob/main/Url.md
 
 蘑菇无法左右7x24维护，只有在收到大量反馈后 才会更新 邮箱和上面的地址，如果您着急，请您务必发邮件或app内反馈 催促蘑菇。
 
-也欢迎您通过tele
+也欢迎您通过蘑菇的telegram群反馈
