@@ -11,7 +11,3 @@ https://purge.jsdelivr.net/gh/kkdysite/www.mogu.gq@master/src.hompage/index.css
 open page
 
 http://mogu.gq
-
-http://www.mogu.gq
-
-http://home.mogu.gq
