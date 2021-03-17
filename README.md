@@ -1,7 +1,7 @@
 # 🍄 mogu.gq
 
 - index.html      homepage
-- src.hompage/    homepage Static file
+- cdn_static_file_/    homepage Static file
 - Url.md          Url update
 
 #### open page
